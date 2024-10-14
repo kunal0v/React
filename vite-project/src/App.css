@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+
+}
+#parent{
+  height: 100vh;
+  width: auto;
+  background-color: #AD49E1;
+  border-radius: 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+
+}
+#pata{
+  background-color: #EBD3F8;
+  height: 80vh;
+  width: 100% ;
+  padding: 10px;
+  color: #2E073F;
+  box-shadow: 10px 10px 10px #FB773C, 10px -10px 10px #FB773C;
+  text-align: justify;
+  font: italic;
+}
+img{
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+
+}
