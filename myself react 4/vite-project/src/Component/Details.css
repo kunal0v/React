@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#detail{
+    height:400px;
+    width: 350px;
+    background-color: aqua;
+    border-radius: 5px;
+
+}

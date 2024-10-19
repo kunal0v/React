@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color:gold;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#dabba-p{
+    height: 450px;
+    width: 500px;
+    
+    display: flex; 
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: justify;
+    flex-wrap: wrap;
+} 
